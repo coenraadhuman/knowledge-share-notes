@@ -14,3 +14,5 @@ Rust has been named the "most loved programming language" in the Stack Overflow 
 1. [Basics](./basics.md)
 1. [Types and Variables](./types-and-variables.md)
 1. [Control Flow](./control-flow.md)
+1. [Control Flow](./control-flow.md)
+1. [Data Structures](./data-structures.md)
