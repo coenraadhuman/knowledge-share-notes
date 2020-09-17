@@ -69,7 +69,11 @@ for (position, val) in (30..41).enumerate() {
 
 ## Match Statement
 
-It is like a switch statement, but force to cover all cases.
+It is similar to a switch statement, but you force to cover all cases:
+
+- Works on integers, ranges of integers, booleans, enums, tuples, arrays and structs.
+- It will destructure tuples, arrays and structs.
+- It requires a default handler if necessary.
 
 ```rust
 let country_code = 44;

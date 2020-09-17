@@ -1,5 +1,3 @@
-#[warn(dead_code)]
-
 enum Colour {
     Red,
     Green,

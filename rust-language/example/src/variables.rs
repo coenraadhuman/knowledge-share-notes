@@ -1,5 +1,3 @@
-#[warn(dead_code)]
-
 pub fn integers() {
     println!("Integers:");
 

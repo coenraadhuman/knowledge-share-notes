@@ -73,4 +73,20 @@ let a:[i32; 5] = [1, 2, 3, 4, 5];
 let b = [1, 2, 3, 4, 5];
 
 println!("a has {} elements, first element is {}", a.len(), a[0]);
+
+println!("{:?}", a); // debug print which prints array contents
+
+let b = [1; 10]; // fills each position in the array with 1.
+
+let c:[u8; 10] = [1; 10];
+
+let d = [1u16; 10];
+
+let e:[[f32; 3]; 2] = [[1.0, 0.0, 0.0], [0.0, 0.2, 0.0]];
+```
+
+## Slices
+
+```rust
+
 ```
