@@ -1,4 +1,4 @@
-_[Types and Variables](./types-and-variables.md) << [Control Flow](./control-flow.md) >> [Data Structures](./data-structures.md)_
+_[Types and Variables](./types-and-variables.md) << Control Flow >> [Data Structures](./data-structures.md)_
 
 # Control Flow
 

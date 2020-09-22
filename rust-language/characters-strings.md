@@ -1,0 +1,1 @@
+_[Generics](./generics.md) << Standard Collections >> [Characters and Strings]() _

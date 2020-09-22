@@ -1,4 +1,4 @@
-_[Control Flow](./control-flow.md) << [Data Structures](./data-structures.md) >> [Standard Collections](./standard-collections.md)_
+_[Control Flow](./control-flow.md) << Data Structures >> [Standard Collections](./standard-collections.md)_
 
 # Data Structures
 

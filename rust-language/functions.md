@@ -1,4 +1,4 @@
-_[Characters and Strings](./text.md) << [Functions](./functions.md) >> [Traits](./traits.md)_
+_[Characters and Strings](./characters-strings.md) << Functions >> [Traits](./traits.md)_
 
 # Functions
 

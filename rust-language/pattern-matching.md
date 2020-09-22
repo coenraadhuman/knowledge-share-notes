@@ -1,4 +1,4 @@
-_[Data Structures](./data-structures.md) << [Pattern Matching](./pattern-matching.md) >> [Generics](./generics.md)_
+_[Data Structures](./data-structures.md) << Pattern Matching >> [Generics](./generics.md)_
 
 # Pattern Matching
 

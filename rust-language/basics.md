@@ -1,4 +1,4 @@
-_[Introduction](./introduction.md) << [Basics](./basics.md) >> [Types and Variables](./types-and-variables.md)_
+_[Introduction](./introduction.md) << Basics >> [Types and Variables](./types-and-variables.md)_
 
 # Installing
 
@@ -25,7 +25,7 @@ Cargo has a official book available for free online, [doc.rust-lang.org/cargo/in
 
 Rust supports multiple IDEs, the most noteworthy is `IntelliJ` and `Visual Studio` that comes with support natively, no external third-party plugins.
 
-Some other editors with some support (setup process detailed in getting started page):
+Some other editors with some support _(setup process detailed in [getting started page](https://www.rust-lang.org/learn/get-started))_:
 
 - VS Code
 - Sublime Text 3
@@ -37,7 +37,7 @@ Some other editors with some support (setup process detailed in getting started 
 
 # Generating a New Project
 
-Made simple using cargo: `cargo new hello-rust` (hello-rust being the project name).
+Made simple using cargo: `cargo new hello-rust` _(terminal based project with hello-rust being the project name)_.
 
 The project structure includes:
 ```
