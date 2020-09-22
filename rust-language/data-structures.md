@@ -90,3 +90,43 @@ let e:[[f32; 3]; 2] = [[1.0, 0.0, 0.0], [0.0, 0.2, 0.0]];
 ```rust
 
 ```
+
+## Tuples
+
+Collection of values. Not a structure!
+
+```rust
+fn sum_and_product(x:i32, y:i32) -> (i32, i32) {
+    (x + y, x * y)
+}
+
+fn tupels() {
+    let x = 3;
+    let y = 4;
+    let sp = sum_and_product(x, y);
+    
+    println!("sp = {:?}", sp); // prints contents of data structure.
+    println!("{0} + {1} = {2}, {0} * {1} = {3}", x, y, sp.0, sp.1); // prints contents of data structure.
+
+    // destructuring a tuple:
+    let (a, b) = sp;
+    println!("a = {}, b = {}", a, b);
+
+    // tuples of tuples:
+    let sp2 = sum_and_product(4, 7);
+    let combined = (sp, sp2);
+    let println!("last element = {}", (combined.1).1);
+
+    let ((c, d), (e, f)) = combined;
+
+    // single element tuple:
+    let single = (42); // i32
+    let single_tuple = (42,); // single element tuple.
+}
+```
+
+## Pattern Matching
+
+
+
+## Generics
