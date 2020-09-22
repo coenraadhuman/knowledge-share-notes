@@ -1,4 +1,4 @@
-_[Control Flow](./control-flow.md) << Data Structures >> [Standard Collections](./standard-collections.md)_
+_[Control Flow](./control-flow.md) << Data Structures >> [Pattern Matching](./pattern-matching.md)_
 
 # Data Structures
 
