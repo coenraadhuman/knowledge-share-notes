@@ -39,7 +39,7 @@ Some articles that you could read if you are interested:
 1. [Characters and Strings](./characters-strings.md)
 1. [Functions](./functions.md)
 1. [Traits](./traits.md)
-1. [Lifetime and Memory]()
+1. [Lifetime and Memory](./lifetime-memory.md)
 1. [Advanced Topics]()
 1. [Concurrency]()
 1. [Odds and Ends]()
