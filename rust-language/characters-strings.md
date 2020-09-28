@@ -1,1 +1,8 @@
-_[Generics](./generics.md) << Standard Collections >> [Characters and Strings]() _
+_[Standard Collections](./standard-collections.md) << Characters and Strings >> [Functions](./functions.md)_
+
+# Characters and Strings
+
+## Strings
+
+```rust
+```
