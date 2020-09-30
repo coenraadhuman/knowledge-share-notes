@@ -1,4 +1,4 @@
-_[Traits](./traits.md) << Lifetime and Memory >> [Advanced Topics]()_
+_[Traits](./traits.md) << Lifetime and Memory >> [Advanced Topics](./advanced-topics.md)_
 
 # Lifetime and Memory
 
