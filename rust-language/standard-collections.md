@@ -1,4 +1,4 @@
-_[Generics](./generics.md) << Standard Collections >> [Characters and Strings](./characters-strings.md)_
+_[Generics](./generics.md) << Standard Collections >> [Functions](./functions.md)_
 
 # Standard Collections
 
