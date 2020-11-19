@@ -85,12 +85,6 @@ let d = [1u16; 10];
 let e:[[f32; 3]; 2] = [[1.0, 0.0, 0.0], [0.0, 0.2, 0.0]];
 ```
 
-## Slices (to be completed)
-
-```rust
-
-```
-
 ## Tuples
 
 Collection of values. Not a structure!
