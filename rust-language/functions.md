@@ -103,14 +103,3 @@ fn main() {
     println!("g = {}", g); // 12
 }
 ```
-
-## Higher Order Functions
-
-- `Generator` are functions that can return s function as result.
-- and/or accept a function as a paramenter.
-
-```rust
-fn main() {
-
-}
-```
