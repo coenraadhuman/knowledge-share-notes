@@ -1,4 +1,4 @@
-_[Standard Collections](./standard-collections.md) << Functions >> [Traits](./traits.md)_
+_[Standard Collections](./standard-collections.md) << Functions >> [Advanced Topics](./advanced-topics.md)_
 
 # Functions
 
