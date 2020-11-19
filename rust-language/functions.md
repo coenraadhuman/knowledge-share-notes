@@ -1,4 +1,4 @@
-_[Characters and Strings](./characters-strings.md) << Functions >> [Traits](./traits.md)_
+_[Standard Collections](./standard-collections.md) << Functions >> [Traits](./traits.md)_
 
 # Functions
 
