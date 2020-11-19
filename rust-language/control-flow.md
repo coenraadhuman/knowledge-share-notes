@@ -87,7 +87,7 @@ let country = match country_code {
 
 
 
-## Combination Lock - __To be completed:__
+## Combination Lock (to be completed)
  
 This can be done using `match` and `enum`:
 
