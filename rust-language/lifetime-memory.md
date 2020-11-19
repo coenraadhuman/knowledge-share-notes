@@ -1,4 +1,4 @@
-__[Functions](./functions.md) << Lifetime and Memory__
+_[Functions](./functions.md) << Lifetime and Memory_
 
 # Lifetime and Memory
 
