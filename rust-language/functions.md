@@ -1,4 +1,4 @@
-_[Standard Collections](./standard-collections.md) << Functions >> [Advanced Topics](./advanced-topics.md)_
+_[Standard Collections](./standard-collections.md) << Functions >> [Lifetime and Memory](./lifetime-memory.md)_
 
 # Functions
 
