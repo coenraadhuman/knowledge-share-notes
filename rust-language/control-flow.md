@@ -84,12 +84,3 @@ let country = match country_code {
     _ => "Invalid"
 };
 ```
-
-
-
-## Combination Lock (to be completed)
- 
-This can be done using `match` and `enum`:
-
-```rust
-```
