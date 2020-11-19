@@ -11,7 +11,7 @@ Multi-paradigm includes:
 - Functional programming.
 - Structured programming.
 
-[Visual example of Rust memory management with lifetimes and without garbage collection.](https://speakerdeck.com/deepu105/rust-stack-vs-heap-usage)
+[Visual example of Rust memory management with lifetimes and without garbage collection.](https://speakerdeck.com/deepu105/rust-stack-vs-heap-usage) - [Original article](https://deepu.tech/memory-management-in-rust/)
 
 ![Rust Mascot: Ferris](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/220px-Rustacean-orig-noshadow.svg.png)
 
