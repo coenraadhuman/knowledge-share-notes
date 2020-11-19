@@ -84,5 +84,3 @@ Borrowing Rules:
 1. [Standard Collections](./standard-collections.md)
 1. [Functions](./functions.md)
 1. [Lifetime and Memory](./lifetime-memory.md)
-1. [Advanced Topics](./advanced-topics.md)
-1. [Concurrency](./concurrency.md)
