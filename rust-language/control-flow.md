@@ -85,9 +85,11 @@ let country = match country_code {
 };
 ```
 
-## Combination Lock
-
-This can be done using `match` and `enum`:
-
-```rust
-```
+// __To be completed:__
+//
+// ## Combination Lock
+// 
+// This can be done using `match` and `enum`:
+// 
+// ```rust
+// ```
