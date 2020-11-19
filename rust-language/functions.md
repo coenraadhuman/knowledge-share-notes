@@ -8,7 +8,7 @@ _[Standard Collections](./standard-collections.md) << Functions >> [Traits](./tr
 
 `Arguments`, refer to the values that are provided to the function's parameters.
 
-:nerd: People tend to use these two terms interchangeably.
+:nerd_face: People tend to use these two terms interchangeably.
 
 ```rust
 fn print_value(x: i32) { // argument goes onto the stack.
